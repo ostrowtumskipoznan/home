@@ -25,9 +25,3 @@ p {
 .links:hover {
     text-decoration: underline;
 }
-
-.image {
-    display: block;
-    margin: auto;
-    width: 75%;
-}
